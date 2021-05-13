@@ -2,12 +2,4 @@ test\test\test\test\test
 lalalalalalalal
 test/test/test/test
 shitshitshitshit
-fuckfuckfuckfuck
-asd
-as
-da
-sdf
-asf
-ads
-g
-s
+fuckfuckfuckfucks
